@@ -27,7 +27,6 @@ Retail-Analytics-Project/
 ├── sql/
 
 │ └── retail_analytics_build.sql # DB schema, bulk load, queries
-
 │
 
 ├── python/
@@ -41,11 +40,9 @@ Retail-Analytics-Project/
 │
 
 ├── outputs/ # Generated outputs (ignored in .gitignore)
-
 │
 
 ├── requirements.txt # Python dependencies
-
 │
 
 └── README.md # Project documentation
@@ -501,7 +498,7 @@ if __name__ == "__main__":
 
 👥![Top 5 Customers by MonetaryValue](https://github.com/RithikaAnalyst/Retail_Analytics_Project/blob/main/Top%205%20Customers%20by%20Monetary%20Value.png)
 
-🔎 RFM Segmentation Scatter Plot
+🔎 ![RFM Segmentation Scatter Plot](https://github.com/RithikaAnalyst/Retail_Analytics_Project/blob/main/RFM%20Segmentation%20Scatter%20Plot.png)
 
 ## Future Enhancements
 
