@@ -27,23 +27,17 @@ Retail-Analytics-Project/
 ├── sql/
 
 │ └── retail_analytics_build.sql # DB schema, bulk load, queries
-│
 
 ├── python/
 
 │ └── etl_and_forecast.py # ETL pipeline + forecasting
 
-│
-
 ├── data/ # Input CSVs (customers, products, stores, transactions, inventory)
 
-│
-
 ├── outputs/ # Generated outputs (ignored in .gitignore)
-│
+
 
 ├── requirements.txt # Python dependencies
-│
 
 └── README.md # Project documentation
 
