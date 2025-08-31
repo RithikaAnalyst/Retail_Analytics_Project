@@ -23,19 +23,31 @@ It simulates a real-world **retail data warehouse** and **business insights syst
 Retail-Analytics-Project/
 
 │
+
 ├── sql/
 
 │ └── retail_analytics_build.sql # DB schema, bulk load, queries
+
 │
+
 ├── python/
+
 │ └── etl_and_forecast.py # ETL pipeline + forecasting
+
 │
+
 ├── data/ # Input CSVs (customers, products, stores, transactions, inventory)
+
 │
+
 ├── outputs/ # Generated outputs (ignored in .gitignore)
+
 │
+
 ├── requirements.txt # Python dependencies
+
 │
+
 └── README.md # Project documentation
 
 
@@ -485,7 +497,7 @@ if __name__ == "__main__":
 ```
 ## Visualizations (auto-shown):
 
-📈!Monthly Revenue with Forecast
+📈!Monthly Revenue with Forecast[https://github.com/RithikaAnalyst/Retail_Analytics_Project/blob/main/Monthly%20Revenue%20with%20Forecast.png]
 
 👥 Top 5 Customers by Monetary Value
 
