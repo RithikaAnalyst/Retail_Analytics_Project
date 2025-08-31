@@ -497,7 +497,7 @@ if __name__ == "__main__":
 ```
 ## Visualizations (auto-shown):
 
-📈!Monthly Revenue with Forecast[https://github.com/RithikaAnalyst/Retail_Analytics_Project/blob/main/Monthly%20Revenue%20with%20Forecast.png]
+📈![Monthly Revenue with Forecast](https://github.com/RithikaAnalyst/Retail_Analytics_Project/blob/main/Monthly%20Revenue%20with%20Forecast.png)
 
 👥 Top 5 Customers by Monetary Value
 
