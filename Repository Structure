@@ -1,0 +1,15 @@
+Retail-Analytics-Project/
+│
+├── sql/
+│   └── retail_analytics_build.sql    # Full DB build, load & analytics queries
+│
+├── python/
+│   └── etl_and_forecast.py           # ETL, KPIs, forecasting, RFM, Excel + visuals
+│
+├── data/                             # Sample CSVs (customers.csv, products.csv...)
+│
+├── outputs/                          # Auto-generated outputs (ignored in .gitignore)
+│
+├── README.md                         # Project documentation
+│
+└── requirements.txt                  # Python dependencies
