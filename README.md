@@ -499,7 +499,7 @@ if __name__ == "__main__":
 
 📈![Monthly Revenue with Forecast](https://github.com/RithikaAnalyst/Retail_Analytics_Project/blob/main/Monthly%20Revenue%20with%20Forecast.png)
 
-👥 Top 5 Customers by Monetary Value
+👥![Top 5 Customers by MonetaryValue](https://github.com/RithikaAnalyst/Retail_Analytics_Project/blob/main/Top%205%20Customers%20by%20Monetary%20Value.png)
 
 🔎 RFM Segmentation Scatter Plot
 
@@ -513,5 +513,7 @@ if __name__ == "__main__":
 ## Author
 
 Developed by [Rithika R] 
+
 📧 Contact: [rithikaramalingam37@gmail.com]
+
 💼 Aspiring Data Analyst | Data Engineer
